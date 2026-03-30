@@ -1,0 +1,4 @@
+The main Jupyter notebook for this project is currently stored in the repository root:
+Lee_RonWilfredOfficialSubmission.ipynb
+
+It contains the complete workflow for preprocessing, model training, evaluation, ethical AI mitigation testing, and final model selection.
