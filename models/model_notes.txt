@@ -1,0 +1,6 @@
+This folder is intended to store trained machine learning model artifacts.
+
+In this capstone project, the models were trained and evaluated directly within the Jupyter notebook rather than exported as separate .pkl or .joblib files.
+
+Final selected model:
+Original Random Forest classifier.
