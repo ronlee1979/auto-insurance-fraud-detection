@@ -1,0 +1,5 @@
+The dataset used in this project relates to automobile insurance fraud detection.
+
+The full machine learning workflow including preprocessing, model training, evaluation, and final model selection is documented in the Jupyter notebook.
+
+If the raw dataset is not included in this repository, it may be due to file size or source restrictions.
