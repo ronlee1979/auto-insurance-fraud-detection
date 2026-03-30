@@ -1,0 +1,11 @@
+This folder represents the source code area of the project.
+
+The primary implementation for this capstone is contained within the Jupyter notebook in this repository.
+
+The notebook contains the full workflow including:
+- data preprocessing
+- feature preparation
+- model training
+- model validation
+- ethical AI mitigation testing
+- final model selection
